@@ -1,0 +1,1555 @@
+2025-08-03 20:37:53 - Auth error
+2025-09-10 19:02:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:02:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=112
+                ON D...' at line 2
+2025-09-10 19:02:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=105
+                ON DU...' at line 2
+2025-09-10 19:02:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:02:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2259696', map_name='BYT Island', damage_dealt=0
+                ON DUP...' at line 2
+2025-09-10 19:02:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=26
+                ON DU...' at line 2
+2025-09-10 19:02:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=87
+                ON DU...' at line 2
+2025-09-10 19:02:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2259696', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:02:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=9
+                ON DUPL...' at line 2
+2025-09-10 19:02:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', assists=1
+                ON DUPLICATE...' at line 2
+2025-09-10 19:02:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=100
+                ON DU...' at line 2
+2025-09-10 19:02:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=18
+                ON DU...' at line 2
+2025-09-10 19:02:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=2
+                ON DUP...' at line 2
+2025-09-10 19:02:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=56
+                ON DU...' at line 2
+2025-09-10 19:02:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:02:33 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=15
+                ON DU...' at line 2
+2025-09-10 19:02:33 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=120
+                ON DU...' at line 2
+2025-09-10 19:02:33 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:02:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:02:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=39
+                ON DU...' at line 2
+2025-09-10 19:02:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=0
+                ON DUP...' at line 2
+2025-09-10 19:02:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=39
+                ON DUP...' at line 2
+2025-09-10 19:02:43 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=30
+                ON DUP...' at line 2
+2025-09-10 19:02:43 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:02:44 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=0
+                ON DUP...' at line 2
+2025-09-10 19:02:52 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=57
+                ON DUP...' at line 2
+2025-09-10 19:02:52 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:02:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:02:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2259696', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:02:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:02:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:02:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:02:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:02:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:02:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:02:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:02:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:03:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=71
+                ON DU...' at line 2
+2025-09-10 19:03:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:03:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=110
+                ON D...' at line 2
+2025-09-10 19:03:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:03:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=52
+                ON DU...' at line 2
+2025-09-10 19:03:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=124
+                ON DU...' at line 2
+2025-09-10 19:03:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:03:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=39
+                ON DUPLI...' at line 2
+2025-09-10 19:03:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:03:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=35
+                ON DU...' at line 2
+2025-09-10 19:03:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=34
+                ON DU...' at line 2
+2025-09-10 19:03:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=36
+                ON DU...' at line 2
+2025-09-10 19:03:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=0
+                ON DUP...' at line 2
+2025-09-10 19:03:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=29
+                ON DU...' at line 2
+2025-09-10 19:03:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:03:28 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:03:28 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=96
+                ON DU...' at line 2
+2025-09-10 19:03:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:03:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:03:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2259696', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:03:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:03:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:03:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:03:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:03:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:03:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:03:33 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:04:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=95
+                ON DU...' at line 2
+2025-09-10 19:04:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:04:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:04:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=100
+                ON D...' at line 2
+2025-09-10 19:04:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', damage_dealt=113
+                ON D...' at line 2
+2025-09-10 19:04:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:04:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', damage_dealt=27
+                ON DU...' at line 2
+2025-09-10 19:04:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:04:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=66
+                ON DU...' at line 2
+2025-09-10 19:04:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', damage_dealt=74
+                ON DU...' at line 2
+2025-09-10 19:04:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:04:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=48
+                ON DU...' at line 2
+2025-09-10 19:04:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=0
+                ON DUP...' at line 2
+2025-09-10 19:04:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=47
+                ON DU...' at line 2
+2025-09-10 19:04:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:04:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=57
+                ON DU...' at line 2
+2025-09-10 19:04:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:04:30 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:04:30 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:04:30 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:04:30 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:04:30 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:04:30 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:04:30 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:04:30 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:04:30 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:04:33 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1923074', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:04:50 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=0
+                ON DUP...' at line 2
+2025-09-10 19:05:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=42
+                ON DUPLI...' at line 2
+2025-09-10 19:05:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:05:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=0
+                ON DUPL...' at line 2
+2025-09-10 19:05:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=88
+                ON DU...' at line 2
+2025-09-10 19:05:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:05:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', damage_dealt=74
+                ON DU...' at line 2
+2025-09-10 19:05:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:05:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', damage_dealt=61
+                ON DUP...' at line 2
+2025-09-10 19:05:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:05:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=77
+                ON DU...' at line 2
+2025-09-10 19:05:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:05:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:05:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', damage_dealt=76
+                ON DU...' at line 2
+2025-09-10 19:05:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:05:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:05:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:05:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:05:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:44 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=87
+                ON DU...' at line 2
+2025-09-10 19:05:44 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:05:44 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', damage_dealt=0
+                ON DUPL...' at line 2
+2025-09-10 19:05:45 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=96
+                ON DUP...' at line 2
+2025-09-10 19:05:45 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:05:46 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=43
+                ON DU...' at line 2
+2025-09-10 19:05:48 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=98
+                ON DU...' at line 2
+2025-09-10 19:05:48 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:05:49 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=57
+                ON DU...' at line 2
+2025-09-10 19:05:49 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:05:50 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=100
+                ON DU...' at line 2
+2025-09-10 19:05:50 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:05:50 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=9
+                ON DUP...' at line 2
+2025-09-10 19:05:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=64
+                ON DU...' at line 2
+2025-09-10 19:05:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:05:54 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:05:54 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=31
+                ON DU...' at line 2
+2025-09-10 19:05:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:05:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:05:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:05:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:05:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:06:46 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=44
+                ON DU...' at line 2
+2025-09-10 19:06:48 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=0
+                ON DUP...' at line 2
+2025-09-10 19:06:48 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=8
+                ON DUP...' at line 2
+2025-09-10 19:06:48 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=50
+                ON DUPLI...' at line 2
+2025-09-10 19:06:49 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=80
+                ON DUP...' at line 2
+2025-09-10 19:06:49 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', assists=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:06:50 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=62
+                ON DU...' at line 2
+2025-09-10 19:06:50 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:06:50 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', damage_dealt=69
+                ON DU...' at line 2
+2025-09-10 19:06:50 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:06:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=121
+                ON DUPL...' at line 2
+2025-09-10 19:06:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:06:52 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=78
+                ON DUPLI...' at line 2
+2025-09-10 19:06:52 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:06:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=0
+                ON DUPL...' at line 2
+2025-09-10 19:06:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', damage_dealt=70
+                ON DU...' at line 2
+2025-09-10 19:06:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', assists=1
+                ON DUPLICATE...' at line 2
+2025-09-10 19:07:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:07:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:07:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:07:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:07:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:07:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:07:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:07:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:07:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:07:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:07:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=33
+                ON DUPLI...' at line 2
+2025-09-10 19:07:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', damage_dealt=68
+                ON DUP...' at line 2
+2025-09-10 19:07:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:07:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=56
+                ON DU...' at line 2
+2025-09-10 19:07:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:07:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=98
+                ON DU...' at line 2
+2025-09-10 19:07:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:07:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=65
+                ON DU...' at line 2
+2025-09-10 19:07:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:07:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=46
+                ON DU...' at line 2
+2025-09-10 19:07:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=111
+                ON D...' at line 2
+2025-09-10 19:07:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:07:28 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:07:28 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=65
+                ON DU...' at line 2
+2025-09-10 19:07:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:07:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:07:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:07:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:07:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:07:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:07:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:07:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:07:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:07:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:08:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=66
+                ON DU...' at line 2
+2025-09-10 19:08:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:08:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', damage_dealt=49
+                ON DU...' at line 2
+2025-09-10 19:08:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=127
+                ON D...' at line 2
+2025-09-10 19:08:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:08:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=48
+                ON DUPLI...' at line 2
+2025-09-10 19:08:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', damage_dealt=39
+                ON DUP...' at line 2
+2025-09-10 19:08:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', damage_dealt=13
+                ON DUP...' at line 2
+2025-09-10 19:08:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=89
+                ON DUP...' at line 2
+2025-09-10 19:08:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', assists=1
+                ON DUPLICATE...' at line 2
+2025-09-10 19:08:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', damage_dealt=6
+                ON DUP...' at line 2
+2025-09-10 19:08:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:08:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=0
+                ON DUPLIC...' at line 2
+2025-09-10 19:08:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=13
+                ON DU...' at line 2
+2025-09-10 19:08:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:08:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=93
+                ON DU...' at line 2
+2025-09-10 19:08:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', damage_dealt=0
+                ON DUP...' at line 2
+2025-09-10 19:08:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=26
+                ON DU...' at line 2
+2025-09-10 19:08:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', damage_dealt=21
+                ON DU...' at line 2
+2025-09-10 19:08:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', assists=1
+                ON DUPLICATE...' at line 2
+2025-09-10 19:08:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=58
+                ON DU...' at line 2
+2025-09-10 19:08:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:08:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:08:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:08:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:08:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:08:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:08:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:08:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:08:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:08:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:08:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:09:00 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=103
+                ON DU...' at line 2
+2025-09-10 19:09:00 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:09:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', damage_dealt=57
+                ON DU...' at line 2
+2025-09-10 19:09:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:09:03 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=1
+                ON DUP...' at line 2
+2025-09-10 19:09:04 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=27
+                ON DU...' at line 2
+2025-09-10 19:09:04 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:09:04 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=72
+                ON DU...' at line 2
+2025-09-10 19:09:05 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=45
+                ON DUP...' at line 2
+2025-09-10 19:09:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=74
+                ON DUP...' at line 2
+2025-09-10 19:09:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', assists=1
+                ON DUPLICATE...' at line 2
+2025-09-10 19:09:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', damage_dealt=33
+                ON DU...' at line 2
+2025-09-10 19:09:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:09:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=44
+                ON DU...' at line 2
+2025-09-10 19:09:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=58
+                ON DUP...' at line 2
+2025-09-10 19:09:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:09:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=39
+                ON DU...' at line 2
+2025-09-10 19:09:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=94
+                ON DUP...' at line 2
+2025-09-10 19:09:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:09:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=55
+                ON DU...' at line 2
+2025-09-10 19:09:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:09:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=62
+                ON DUP...' at line 2
+2025-09-10 19:09:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:09:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:09:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:09:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:09:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:09:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:09:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:09:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:09:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:09:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:09:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:10:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=59
+                ON DU...' at line 2
+2025-09-10 19:10:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:10:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:10:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=60
+                ON DUPLI...' at line 2
+2025-09-10 19:10:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=3
+                ON DUP...' at line 2
+2025-09-10 19:10:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=88
+                ON DU...' at line 2
+2025-09-10 19:10:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:10:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=0
+                ON DUP...' at line 2
+2025-09-10 19:10:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=45
+                ON DU...' at line 2
+2025-09-10 19:10:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=51
+                ON DU...' at line 2
+2025-09-10 19:10:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:10:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=5
+                ON DUP...' at line 2
+2025-09-10 19:10:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=94
+                ON DUP...' at line 2
+2025-09-10 19:10:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:10:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=12
+                ON DU...' at line 2
+2025-09-10 19:10:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=75
+                ON DUP...' at line 2
+2025-09-10 19:10:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:10:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=18
+                ON DU...' at line 2
+2025-09-10 19:10:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=10
+                ON DUP...' at line 2
+2025-09-10 19:10:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=2
+                ON DUP...' at line 2
+2025-09-10 19:10:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=47
+                ON DU...' at line 2
+2025-09-10 19:10:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:10:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=53
+                ON DU...' at line 2
+2025-09-10 19:10:28 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:10:28 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=2
+                ON DUP...' at line 2
+2025-09-10 19:10:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:10:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:10:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:10:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:10:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:10:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:10:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:10:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:10:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:10:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:11:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=29
+                ON DU...' at line 2
+2025-09-10 19:11:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', damage_dealt=107
+                ON D...' at line 2
+2025-09-10 19:11:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:11:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=65
+                ON DU...' at line 2
+2025-09-10 19:11:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:11:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=65
+                ON DU...' at line 2
+2025-09-10 19:11:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:11:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=39
+                ON DU...' at line 2
+2025-09-10 19:11:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=101
+                ON D...' at line 2
+2025-09-10 19:11:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:11:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', damage_dealt=61
+                ON DU...' at line 2
+2025-09-10 19:11:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:11:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=35
+                ON DU...' at line 2
+2025-09-10 19:11:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:11:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:11:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:11:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:11:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:11:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:11:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:11:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:11:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:11:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:11:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:11:56 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=108
+                ON D...' at line 2
+2025-09-10 19:11:56 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:11:56 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', damage_dealt=47
+                ON DU...' at line 2
+2025-09-10 19:11:57 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=17
+                ON DUP...' at line 2
+2025-09-10 19:11:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=52
+                ON DU...' at line 2
+2025-09-10 19:11:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=3
+                ON DUP...' at line 2
+2025-09-10 19:12:00 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=84
+                ON DUP...' at line 2
+2025-09-10 19:12:00 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:12:00 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:12:00 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=54
+                ON DU...' at line 2
+2025-09-10 19:12:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:12:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=88
+                ON DU...' at line 2
+2025-09-10 19:12:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:12:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=60
+                ON DU...' at line 2
+2025-09-10 19:12:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:12:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:12:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:12:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:12:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:12:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:12:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:12:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:12:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:12:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:12:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:12:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:12:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', damage_dealt=104
+                ON D...' at line 2
+2025-09-10 19:12:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', damage_dealt=104
+                ON DU...' at line 2
+2025-09-10 19:12:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', kills=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:12:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', damage_dealt=120
+                ON D...' at line 2
+2025-09-10 19:12:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:12:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=107
+                ON D...' at line 2
+2025-09-10 19:12:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:13:00 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=69
+                ON DUPLI...' at line 2
+2025-09-10 19:13:00 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:13:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=53
+                ON DU...' at line 2
+2025-09-10 19:13:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=0
+                ON DUPLIC...' at line 2
+2025-09-10 19:13:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=55
+                ON DUPLI...' at line 2
+2025-09-10 19:13:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:13:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:13:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=60
+                ON DU...' at line 2
+2025-09-10 19:13:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=10
+                ON DU...' at line 2
+2025-09-10 19:13:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=0
+                ON DUPLIC...' at line 2
+2025-09-10 19:13:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', damage_dealt=68
+                ON DUPLI...' at line 2
+2025-09-10 19:13:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:13:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:13:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:13:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:13:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Island', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:13:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:13:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:13:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:13:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:13:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Island', rounds_played=1
+                ON DUP...' at line 2
+2025-09-10 19:13:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', rounds_played=1
+                ON DU...' at line 2
+2025-09-10 19:13:38 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:13:38 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=101
+                ON D...' at line 2
+2025-09-10 19:13:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=4
+                ON DUP...' at line 2
+2025-09-10 19:13:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=61
+                ON DU...' at line 2
+2025-09-10 19:13:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:13:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', damage_dealt=71
+                ON DU...' at line 2
+2025-09-10 19:13:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', kills=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:13:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Island', damage_dealt=0
+                ON DUPL...' at line 2
+2025-09-10 19:13:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=22
+                ON DU...' at line 2
+2025-09-10 19:13:41 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:13:41 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Island', damage_dealt=60
+                ON DU...' at line 2
+2025-09-10 19:13:41 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', damage_dealt=7
+                ON DUP...' at line 2
+2025-09-10 19:13:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Island', damage_dealt=72
+                ON DU...' at line 2
+2025-09-10 19:13:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Island', assists=1
+                ON DUPLICAT...' at line 2
+2025-09-10 19:15:07 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:15:07 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:15:08 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:15:08 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', damage_dealt=103
+                ON DUPL...' at line 2
+2025-09-10 19:15:08 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:15:09 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=87
+                ON DUPL...' at line 2
+2025-09-10 19:15:09 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:15:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=85
+                ON DUPLI...' at line 2
+2025-09-10 19:15:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:15:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=19
+                ON DUPL...' at line 2
+2025-09-10 19:15:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Snow', damage_dealt=38
+                ON DUPLI...' at line 2
+2025-09-10 19:15:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=101
+                ON DUP...' at line 2
+2025-09-10 19:15:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:15:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=92
+                ON DUPL...' at line 2
+2025-09-10 19:15:20 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:15:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=62
+                ON DUPL...' at line 2
+2025-09-10 19:15:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:15:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:15:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:15:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:15:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:15:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:15:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:15:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:15:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:15:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:15:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', damage_dealt=114
+                ON DUPL...' at line 2
+2025-09-10 19:16:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:16:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=72
+                ON DUPL...' at line 2
+2025-09-10 19:16:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:16:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=123
+                ON DUPLIC...' at line 2
+2025-09-10 19:16:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY U...' at line 2
+2025-09-10 19:16:03 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=44
+                ON DUPLI...' at line 2
+2025-09-10 19:16:07 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=0
+                ON DUPLICAT...' at line 2
+2025-09-10 19:16:09 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=16
+                ON DUPLI...' at line 2
+2025-09-10 19:16:09 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', assists=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:16:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=0
+                ON DUPLICAT...' at line 2
+2025-09-10 19:16:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Snow', damage_dealt=40
+                ON DUPLI...' at line 2
+2025-09-10 19:16:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', damage_dealt=42
+                ON DUPLI...' at line 2
+2025-09-10 19:16:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Snow', assists=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:16:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:16:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:16:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:16:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:16:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:37 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=54
+                ON DUPL...' at line 2
+2025-09-10 19:16:37 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=56
+                ON DUPL...' at line 2
+2025-09-10 19:16:37 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:16:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:16:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=29
+                ON DUPLI...' at line 2
+2025-09-10 19:16:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:16:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', damage_dealt=103
+                ON DUPL...' at line 2
+2025-09-10 19:16:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:16:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=86
+                ON DUPL...' at line 2
+2025-09-10 19:16:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=15
+                ON DUPL...' at line 2
+2025-09-10 19:16:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:16:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=80
+                ON DUPL...' at line 2
+2025-09-10 19:16:41 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=52
+                ON DUPL...' at line 2
+2025-09-10 19:16:41 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:16:44 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=58
+                ON DUPL...' at line 2
+2025-09-10 19:16:44 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:16:46 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:16:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=7
+                ON DUPLI...' at line 2
+2025-09-10 19:16:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=24
+                ON DUPL...' at line 2
+2025-09-10 19:16:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=33
+                ON DUPL...' at line 2
+2025-09-10 19:16:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:16:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:16:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:16:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:16:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:16:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:17:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:17:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=66
+                ON DUPL...' at line 2
+2025-09-10 19:17:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:17:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=73
+                ON DUPL...' at line 2
+2025-09-10 19:17:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=55
+                ON DUPL...' at line 2
+2025-09-10 19:17:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:17:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=85
+                ON DUPLI...' at line 2
+2025-09-10 19:17:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:17:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=47
+                ON DUPLI...' at line 2
+2025-09-10 19:17:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=26
+                ON DUPLI...' at line 2
+2025-09-10 19:17:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=46
+                ON DUPL...' at line 2
+2025-09-10 19:17:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:17:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=58
+                ON DUPL...' at line 2
+2025-09-10 19:17:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=63
+                ON DUPL...' at line 2
+2025-09-10 19:17:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:17:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:17:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:17:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:17:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:17:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:17:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:17:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:17:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='774878', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:17:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:17:27 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:17:40 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:17:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:18:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=81
+                ON DUPL...' at line 2
+2025-09-10 19:18:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:18:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=56
+                ON DUPLICA...' at line 2
+2025-09-10 19:18:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY U...' at line 2
+2025-09-10 19:18:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', damage_dealt=2
+                ON DUPLIC...' at line 2
+2025-09-10 19:18:23 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=47
+                ON DUPL...' at line 2
+2025-09-10 19:18:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', damage_dealt=0
+                ON DUPLIC...' at line 2
+2025-09-10 19:18:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=71
+                ON DUPL...' at line 2
+2025-09-10 19:18:24 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:18:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=38
+                ON DUPL...' at line 2
+2025-09-10 19:18:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=60
+                ON DUPLI...' at line 2
+2025-09-10 19:18:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:18:29 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=33
+                ON DUPL...' at line 2
+2025-09-10 19:18:29 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:18:30 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=7
+                ON DUPLIC...' at line 2
+2025-09-10 19:18:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=2
+                ON DUPLI...' at line 2
+2025-09-10 19:18:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=29
+                ON DUPLI...' at line 2
+2025-09-10 19:18:33 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=33
+                ON DUPL...' at line 2
+2025-09-10 19:18:34 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=62
+                ON DUPL...' at line 2
+2025-09-10 19:18:34 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:18:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=57
+                ON DUPL...' at line 2
+2025-09-10 19:18:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:18:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:18:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:18:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:18:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:18:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:18:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:18:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:18:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:18:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:18:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:19:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=103
+                ON DUPLIC...' at line 2
+2025-09-10 19:19:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY U...' at line 2
+2025-09-10 19:19:05 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=44
+                ON DUPLICA...' at line 2
+2025-09-10 19:19:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY U...' at line 2
+2025-09-10 19:19:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=33
+                ON DUPLICA...' at line 2
+2025-09-10 19:19:08 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', damage_dealt=56
+                ON DUPLI...' at line 2
+2025-09-10 19:19:08 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:19:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:19:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', damage_dealt=70
+                ON DUPLI...' at line 2
+2025-09-10 19:19:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:19:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=79
+                ON DUPLICA...' at line 2
+2025-09-10 19:19:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY U...' at line 2
+2025-09-10 19:19:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:19:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:19:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:19:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:19:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:19:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:19:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:19:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:19:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:19:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:19:44 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=13
+                ON DUPL...' at line 2
+2025-09-10 19:19:45 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=6
+                ON DUPLI...' at line 2
+2025-09-10 19:19:45 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=32
+                ON DUPL...' at line 2
+2025-09-10 19:19:46 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=29
+                ON DUPL...' at line 2
+2025-09-10 19:19:46 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:19:48 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=67
+                ON DUPLICA...' at line 2
+2025-09-10 19:19:48 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY U...' at line 2
+2025-09-10 19:19:48 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=42
+                ON DUPL...' at line 2
+2025-09-10 19:19:48 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=71
+                ON DUPL...' at line 2
+2025-09-10 19:19:48 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:19:49 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=7
+                ON DUPLICAT...' at line 2
+2025-09-10 19:19:53 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=42
+                ON DUPL...' at line 2
+2025-09-10 19:19:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=92
+                ON DUPL...' at line 2
+2025-09-10 19:19:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:19:57 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=49
+                ON DUPL...' at line 2
+2025-09-10 19:19:57 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:19:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:19:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', damage_dealt=19
+                ON DUPLI...' at line 2
+2025-09-10 19:20:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', damage_dealt=4
+                ON DUPLIC...' at line 2
+2025-09-10 19:20:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:20:03 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=74
+                ON DUPL...' at line 2
+2025-09-10 19:20:03 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:20:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:20:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:20:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:20:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:20:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:20:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:20:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:20:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:20:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:20:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:20:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=43
+                ON DUPLI...' at line 2
+2025-09-10 19:20:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', damage_dealt=89
+                ON DUPLI...' at line 2
+2025-09-10 19:20:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:20:33 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:20:33 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=55
+                ON DUPL...' at line 2
+2025-09-10 19:20:34 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', damage_dealt=60
+                ON DUPLI...' at line 2
+2025-09-10 19:20:34 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:20:34 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=77
+                ON DUPL...' at line 2
+2025-09-10 19:20:34 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:20:35 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:20:35 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=63
+                ON DUPLI...' at line 2
+2025-09-10 19:20:41 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=58
+                ON DUPL...' at line 2
+2025-09-10 19:20:41 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:20:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=65
+                ON DUPL...' at line 2
+2025-09-10 19:20:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:20:43 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=42
+                ON DUPLI...' at line 2
+2025-09-10 19:20:44 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=49
+                ON DUPL...' at line 2
+2025-09-10 19:20:44 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', assists=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:20:47 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:20:47 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:20:47 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:20:47 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:20:47 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:20:47 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:20:47 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:20:47 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:20:47 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:20:48 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:21:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:21:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=42
+                ON DUPL...' at line 2
+2025-09-10 19:21:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=11
+                ON DUPLICA...' at line 2
+2025-09-10 19:21:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=72
+                ON DUPL...' at line 2
+2025-09-10 19:21:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:21:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=59
+                ON DUPL...' at line 2
+2025-09-10 19:21:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:21:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', damage_dealt=92
+                ON DUPLI...' at line 2
+2025-09-10 19:21:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:21:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:21:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=119
+                ON DUPL...' at line 2
+2025-09-10 19:21:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=64
+                ON DUPL...' at line 2
+2025-09-10 19:21:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:21:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:21:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=64
+                ON DUPL...' at line 2
+2025-09-10 19:21:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:21:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=66
+                ON DUPL...' at line 2
+2025-09-10 19:21:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:21:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:21:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:21:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:21:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:21:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:21:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:21:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:21:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:21:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:22:07 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=64
+                ON DUPLI...' at line 2
+2025-09-10 19:22:07 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:22:08 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:22:08 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=71
+                ON DUPL...' at line 2
+2025-09-10 19:22:08 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:22:08 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=0
+                ON DUPLICAT...' at line 2
+2025-09-10 19:22:09 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:22:10 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:22:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=90
+                ON DUPL...' at line 2
+2025-09-10 19:22:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:22:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=55
+                ON DUPL...' at line 2
+2025-09-10 19:22:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:22:17 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=37
+                ON DUPL...' at line 2
+2025-09-10 19:22:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:22:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=54
+                ON DUPL...' at line 2
+2025-09-10 19:22:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:22:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:22:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:22:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:22:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:22:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:22:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:22:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:22:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:22:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:22:47 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=12
+                ON DUPLICA...' at line 2
+2025-09-10 19:22:49 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=118
+                ON DUPLIC...' at line 2
+2025-09-10 19:22:49 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY U...' at line 2
+2025-09-10 19:22:50 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=63
+                ON DUPL...' at line 2
+2025-09-10 19:22:50 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:22:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=105
+                ON DUP...' at line 2
+2025-09-10 19:22:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:22:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=16
+                ON DUPL...' at line 2
+2025-09-10 19:22:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', damage_dealt=62
+                ON DUPLI...' at line 2
+2025-09-10 19:22:51 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:22:53 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=93
+                ON DUPL...' at line 2
+2025-09-10 19:22:53 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:22:54 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=38
+                ON DUPLICA...' at line 2
+2025-09-10 19:22:54 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=84
+                ON DUPL...' at line 2
+2025-09-10 19:22:54 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', assists=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:22:57 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=65
+                ON DUPLICA...' at line 2
+2025-09-10 19:22:57 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY U...' at line 2
+2025-09-10 19:23:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:23:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:23:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:23:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:23:30 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=49
+                ON DUPL...' at line 2
+2025-09-10 19:23:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=87
+                ON DUPL...' at line 2
+2025-09-10 19:23:31 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:23:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=4
+                ON DUPLI...' at line 2
+2025-09-10 19:23:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=68
+                ON DUPL...' at line 2
+2025-09-10 19:23:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:23:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', damage_dealt=89
+                ON DUPLI...' at line 2
+2025-09-10 19:23:32 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:23:33 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=62
+                ON DUPL...' at line 2
+2025-09-10 19:23:33 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:23:35 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=61
+                ON DUPL...' at line 2
+2025-09-10 19:23:35 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:23:38 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', damage_dealt=0
+                ON DUPLIC...' at line 2
+2025-09-10 19:23:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=26
+                ON DUPL...' at line 2
+2025-09-10 19:23:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=72
+                ON DUPL...' at line 2
+2025-09-10 19:23:39 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:23:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:23:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:23:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:23:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:23:42 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:24:11 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=12
+                ON DUPL...' at line 2
+2025-09-10 19:24:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=66
+                ON DUPL...' at line 2
+2025-09-10 19:24:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:24:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=67
+                ON DUPLI...' at line 2
+2025-09-10 19:24:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', kills=1
+                ON DUPLICATE KEY...' at line 2
+2025-09-10 19:24:12 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=42
+                ON DUPLICA...' at line 2
+2025-09-10 19:24:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=8
+                ON DUPLICAT...' at line 2
+2025-09-10 19:24:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:24:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=80
+                ON DUPL...' at line 2
+2025-09-10 19:24:14 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:24:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', damage_dealt=37
+                ON DUPLICA...' at line 2
+2025-09-10 19:24:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', damage_dealt=54
+                ON DUPL...' at line 2
+2025-09-10 19:24:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:24:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=71
+                ON DUPL...' at line 2
+2025-09-10 19:24:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:24:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=2
+                ON DUPLI...' at line 2
+2025-09-10 19:24:21 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=53
+                ON DUPL...' at line 2
+2025-09-10 19:24:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=96
+                ON DUPL...' at line 2
+2025-09-10 19:24:22 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:24:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:24:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='503765', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:24:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2508655', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:24:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:24:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:24:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', rounds_played=1
+                ON DUPLI...' at line 2
+2025-09-10 19:24:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:24:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2232', map_name='BYT Snow', rounds_played=1
+                ON DUPLICA...' at line 2
+2025-09-10 19:24:25 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:24:26 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', rounds_played=1
+                ON DUPL...' at line 2
+2025-09-10 19:24:49 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', damage_dealt=1
+                ON DUPLIC...' at line 2
+2025-09-10 19:24:49 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=52
+                ON DUPL...' at line 2
+2025-09-10 19:24:50 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', damage_dealt=51
+                ON DUPLI...' at line 2
+2025-09-10 19:24:53 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', damage_dealt=78
+                ON DUPL...' at line 2
+2025-09-10 19:24:53 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1160798', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:24:53 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=55
+                ON DUPL...' at line 2
+2025-09-10 19:24:53 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='526649', map_name='BYT Snow', assists=1
+                ON DUPLICATE K...' at line 2
+2025-09-10 19:24:54 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=43
+                ON DUPL...' at line 2
+2025-09-10 19:24:54 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='780242', map_name='BYT Snow', damage_dealt=48
+                ON DUPLI...' at line 2
+2025-09-10 19:24:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=23
+                ON DUPL...' at line 2
+2025-09-10 19:24:55 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:24:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:24:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2289178', map_name='BYT Snow', damage_dealt=85
+                ON DUPL...' at line 2
+2025-09-10 19:24:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=61
+                ON DUPL...' at line 2
+2025-09-10 19:24:58 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:24:59 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=12
+                ON DUPL...' at line 2
+2025-09-10 19:25:01 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=15
+                ON DUPL...' at line 2
+2025-09-10 19:25:02 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=21
+                ON DUPL...' at line 2
+2025-09-10 19:25:03 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:25:05 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=6
+                ON DUPLI...' at line 2
+2025-09-10 19:25:06 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=2
+                ON DUPLI...' at line 2
+2025-09-10 19:25:07 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=2
+                ON DUPLI...' at line 2
+2025-09-10 19:25:08 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:25:09 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=1
+                ON DUPLI...' at line 2
+2025-09-10 19:25:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=59
+                ON DUPL...' at line 2
+2025-09-10 19:25:13 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:25:15 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:25:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=0
+                ON DUPLI...' at line 2
+2025-09-10 19:25:16 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', damage_dealt=2
+                ON DUPLI...' at line 2
+2025-09-10 19:25:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', kills=1
+                ON DUPLICATE KE...' at line 2
+2025-09-10 19:25:18 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1814235', map_name='BYT Snow', damage_dealt=38
+                ON DUPL...' at line 2
+2025-09-10 19:25:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='2279038', map_name='BYT Snow', assists=1
+                ON DUPLICATE ...' at line 2
+2025-09-10 19:25:19 - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'guid='1897225', map_name='BYT Snow', damage_dealt=15
+                ON DUPL...' at line 2

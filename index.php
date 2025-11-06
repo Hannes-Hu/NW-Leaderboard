@@ -218,7 +218,7 @@ $body .= '
     </div>
 </div>';
 
-// Add CSS for rating colors, flags, and filter selectors
+// CSS for rating colors, flags, and filter selectors
 $body .= '
 <style>
 .rating-best { 
@@ -275,5 +275,6 @@ $title = 'Leaderboard';
 $page = 'leaderboard';
 $search = true;
 $search_placeholder = 'Search players...';
+
 
 require 'page.php';

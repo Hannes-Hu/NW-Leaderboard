@@ -4,7 +4,7 @@ $db = new DB;
 
 $guid = $_GET['id'] ?? null;
 $matchweek_id = $_GET['matchweek'] ?? null;
-// Add these lines to capture the search and matchweek filters
+// Capture the search and matchweek filters
 $search_query = $_GET['search'] ?? '';
 $selected_matchweek = $_GET['matchweek'] ?? 'all';
 
@@ -93,7 +93,7 @@ if ($display_stats['rounds_played'] > 0) {
     $rating_value = min(9.99, max(0, $rating_value)) * 10;
     $overall_rating = round($rating_value, 1);
     
-    // Add color coding based on new rating scheme
+    // Add color coding based on rating
     $rating_class = '';
     if ($overall_rating >= 90.0) $rating_class = 'rating-best';
     elseif ($overall_rating >= 85.0) $rating_class = 'rating-2nd-best';
@@ -519,4 +519,5 @@ $head = '
 
 $title = htmlspecialchars($player['name']).' - Profile';
 $page = 'profile';
+
 require 'page.php';

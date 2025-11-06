@@ -6,8 +6,8 @@ error_reporting(E_ALL);
 class DB {
     public mysqli $mysqli;
     private static $host = 'localhost';
-    private static $user = 'u578436281_leaderboard';
-    private static $pass = 'Z|p0nEIb';
+    private static $user = 'Redacted';
+    private static $pass = 'Redacted';
     private static $database = 'u578436281_leaderboard';
     
     public function __construct() {
@@ -765,4 +765,5 @@ class DB {
         
         return $stats;
     }
+
 }
